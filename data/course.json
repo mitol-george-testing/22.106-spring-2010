@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e1fc9110-2a62-bd10-ddef-305f4df208ec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Neutron Interactions and Applications",
+  "course_description": "This course is intended to introduce the student to the concepts and methods of transport theory needed in neutron science applications. This course is a foundational study of the effects of multiple interactions on neutron distributions and their applications to problems across the Nuclear Engineering department. Stochastic and deterministic simulation techniques will be introduced to the students.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.106",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
